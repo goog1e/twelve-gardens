@@ -1,0 +1,77 @@
+body {
+    color: white;
+    background: pink;
+    font-family: monospace;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    font-size: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.title {
+    letter-spacing: 60px;
+}
+
+h1 {
+    font-size: 80px;
+}
+.home-nav a {
+    width: 375px;
+    height: 475px;
+    display: inline-block;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    color: white;
+}
+
+.home-nav div {
+    display: block;
+    opacity: 0;
+    width: 100%;
+    height: 100%;
+    background: pink;
+
+    text-align: center;
+    line-height: 375px;
+    font-size: 50px;
+    transition: opacity .3s ease-in;
+}
+
+.home-nav div:hover {
+    opacity: 75;
+}
+
+.home-nav a:first-child {
+    background-image: url(img/plants/mystery_plant2.png);
+}
+
+.home-nav a:nth-child(2) {
+    background-image: url(img/plants/mystery_plant.png);
+}
+
+.home-nav a:nth-child(3) {
+    background-image: url(img/plants/avocado.png);
+}
+
+.home-nav a:nth-child(4) {
+    background-image: url(img/plants/ivy.png);
+}
+
+.events img {
+    width: 375px;
+    display: inline-block;
+}
+
+.nav li {
+    display: inline-block;
+    font-size: 35px;
+    padding: 0 7%;
+}
+
+.nav li.active {
+    border: 1px solid white;
+}
