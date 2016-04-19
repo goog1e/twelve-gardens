@@ -69,7 +69,7 @@ h1 {
 
 .events div {
     width: 686px;
-    word-wrap: break-word;
+    word-break: break-all;
 }
 
 .nav li {
