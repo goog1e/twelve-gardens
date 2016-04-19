@@ -67,6 +67,11 @@ h1 {
     font-size: 15px;
 }
 
+.events div {
+    width: 686px;
+    word-wrap: break-word;
+}
+
 .nav li {
     display: inline-block;
     font-size: 35px;
