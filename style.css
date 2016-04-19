@@ -64,6 +64,7 @@ h1 {
 .events img {
     width: 686px;
     display: inline-block;
+    font-size: 15px;
 }
 
 .nav li {
