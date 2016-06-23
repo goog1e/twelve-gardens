@@ -4,6 +4,7 @@ body {
     font-family: monospace;
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
     font-size: 30px;
+    width:80%;
 }
 
 a {
@@ -64,6 +65,12 @@ h1 {
 .events img {
     width: 686px;
     display: inline-block;
+    font-size: 15px;
+}
+
+.events div {
+    width: 686px;
+    word-wrap: break-word;
 }
 
 .nav li {
