@@ -8,7 +8,7 @@ body {
 
 a {
     text-decoration: none;
-    color: white;
+    color: black;
 }
 
 .title {
@@ -25,7 +25,7 @@ h1 {
     background-size: contain;
     background-repeat: no-repeat;
     background-position: 50% 0;
-    color: white;
+    color: black;
 }
 
 .home-nav div {
@@ -79,5 +79,5 @@ h1 {
 }
 
 .nav li.active {
-    border: 1px solid white;
+    border: 1px solid black;
 }
