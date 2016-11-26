@@ -81,3 +81,7 @@ h1 {
 .nav li.active {
     border: 1px solid black;
 }
+
+ .about img {
+    width: 686px;
+ }
