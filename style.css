@@ -31,8 +31,8 @@ h1 {
 .home-nav div {
     display: block;
     opacity: 0;
-    width: 100%;
-    height: 100%;
+    width: 80%;
+    height: 80%;
     background: white;
 
     text-align: center;
