@@ -87,7 +87,5 @@ h1 {
  }
 
  body{
-    -webkit-transform: scale(0.50);
-       -moz-transform: scale(0.50);
             transform: scale(0.50);
 }
