@@ -85,3 +85,13 @@ h1 {
  .about img {
     width: 686px;
  }
+
+ .WebContainer{
+    width: 50%;
+    height: auto;
+}
+.articles{
+    width:90%; /*Takes 90% width from WebContainer*/
+    height: auto;
+    margin: auto;
+}
