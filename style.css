@@ -86,12 +86,8 @@ h1 {
     width: 686px;
  }
 
- .WebContainer{
-    width: 50%;
-    height: auto;
-}
-.articles{
-    width:90%; /*Takes 90% width from WebContainer*/
-    height: auto;
-    margin: auto;
+ body{
+    -webkit-transform: scale(0.50);
+       -moz-transform: scale(0.50);
+            transform: scale(0.50);
 }
