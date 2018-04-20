@@ -4,9 +4,6 @@ body {
     font-family: courier;
     font-size: 25px;
     width:80%;
-    -moz-transform: scale(0.5, 0.5); /* Moz-browsers */
-    zoom: 0.5; /* Other non-webkit browsers */
-    zoom: 50%; /* Webkit browsers */
 }
 
 a {
