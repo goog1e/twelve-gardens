@@ -1,8 +1,8 @@
 body {
     color: black;
     background: white;
-    font-family: Times;
-    font-size: 25px;
+    font-family: courier;
+    font-size: 20px;
     width:80%;
 }
 
@@ -16,7 +16,7 @@ a {
 }
 
 h1 {
-    font-size: 80px;
+    font-size: 60px;
 }
 .home-nav a {
     width: 375px;
