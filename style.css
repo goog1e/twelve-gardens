@@ -74,12 +74,12 @@ h1 {
 
 .nav li {
     display: inline-block;
-    font-size: 35px;
+    font-size: 20px;
     padding: 0 7%;
 }
 
 .nav li.active {
-    border: 1px solid black;
+    border: 1px solid green;
 }
 
  .about img {
