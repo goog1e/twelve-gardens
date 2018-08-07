@@ -16,7 +16,7 @@ a {
 }
 
 h1 {
-    font-size: 40px;
+    font-size: 30px;
 }
 .home-nav a {
     width: 375px;
@@ -37,7 +37,7 @@ h1 {
 
     text-align: center;
     line-height: 375px;
-    font-size: 50px;
+    font-size: 15px;
     transition: opacity .3s ease-in;
 }
 
