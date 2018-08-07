@@ -2,7 +2,7 @@ body {
     color: black;
     background: white;
     font-family: 'Courier New';
-    font-size: 12px;
+    font-size: 14px;
     width:80%;
 }
 
@@ -16,11 +16,11 @@ a {
 }
 
 h1 {
-    font-size: 30px;
+    font-size: 40px;
 }
 .home-nav a {
-    width: 375px;
-    height: 475px;
+    width: 125px;
+    height: 158px;
     display: inline-block;
     background-size: contain;
     background-repeat: no-repeat;
@@ -37,7 +37,7 @@ h1 {
 
     text-align: center;
     line-height: 375px;
-    font-size: 15px;
+    font-size: 20px;
     transition: opacity .3s ease-in;
 }
 
